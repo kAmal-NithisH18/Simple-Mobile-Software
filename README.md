@@ -23,22 +23,22 @@ Welcome to the Java Multi-Utility GUI Package, a versatile desktop application t
 4. Explore the various utilities available in the GUI.
 
 ## Screenshots:
-**Main.java - Main GUI file**
+*Main.java - Main GUI file*
 ![Screenshot 1: Main Interface](/Screenshots/jpack1.png)
 
-**Hardcoded Notepad**
+*Hardcoded Notepad*
 ![Screenshot 2: Calculator](/Screenshots/jpack2.png)
 
-**Calendar**
+*Calendar*
 ![Screenshot 1: Main Interface](/Screenshots/jpack3.png)
 
-**Calculator**
+*Calculator*
 ![Screenshot 2: Calculator](/Screenshots/jpack4.png)
 
-**Snake game**
+*Snake game*
 ![Screenshot 1: Main Interface](/Screenshots/jpack5.png)
 
-**Tic Tac Toe**
+*Tic Tac Toe*
 ![Screenshot 2: Calculator](/Screenshots/jpack6.png)
 
 
