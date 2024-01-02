@@ -27,7 +27,19 @@ Welcome to the Java Multi-Utility GUI Package, a versatile desktop application t
 ![Screenshot 1: Main Interface](/Screenshots/jpack1.png)
 *Description of the screenshot.*
 
-![Screenshot 2: Calculator](/screenshots/screenshot2.png)
+![Screenshot 2: Calculator](/Screenshots/jpack2.png)
+*Description of the screenshot.*
+
+![Screenshot 1: Main Interface](/Screenshots/jpack3.png)
+*Description of the screenshot.*
+
+![Screenshot 2: Calculator](/Screenshots/jpack4.png)
+*Description of the screenshot.*
+
+![Screenshot 1: Main Interface](/Screenshots/jpack5.png)
+*Description of the screenshot.*
+
+![Screenshot 2: Calculator](/Screenshots/jpack6.png)
 *Description of the screenshot.*
 
 ...
