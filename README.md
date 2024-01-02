@@ -23,9 +23,9 @@ Welcome to the Java Multi-Utility GUI Package, a versatile desktop application t
 4. Explore the various utilities available in the GUI.
 
 ## Screenshots:
-
+*Main.java - Main GUI file*
 ![Screenshot 1: Main Interface](/Screenshots/jpack1.png)
-*Description of the screenshot.*
+
 
 ![Screenshot 2: Calculator](/Screenshots/jpack2.png)
 *Description of the screenshot.*
