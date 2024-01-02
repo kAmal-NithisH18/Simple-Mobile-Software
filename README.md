@@ -4,14 +4,14 @@ Welcome to the Java Multi-Utility GUI Package, a versatile desktop application t
 
 ## Features:
 
-- **Spotify Integration:** Enjoy your favorite music seamlessly within the application.
+- **Spotify Integration:** Enjoy your favorite music seamlessly with the web.
 - **Hardcoded Notepad:** A simple text editor for quick note-taking and editing.
 - **Calculator:** Perform basic and advanced calculations with ease.
 - **Alarm Clock:** Set alarms to keep track of important events or tasks.
-- **Calendar:** Plan your schedule and stay organized with a built-in calendar.
+- **Calendar:** Stay organized with a built-in calendar.
 - **Camera:** Capture images using the integrated camera functionality.
 - **Snake Game:** Classic snake game for entertainment.
-- **Tic-Tac-Toe Game:** Challenge your friends or the computer to a game of tic-tac-toe.
+- **Tic-Tac-Toe Game:** Challenge your friends  to a game of tic-tac-toe.
 - **YouTube Playback:** Watch YouTube videos without leaving the application.
 - **FM Radio:** Listen to your favorite radio stations directly from the GUI.
 
@@ -19,35 +19,33 @@ Welcome to the Java Multi-Utility GUI Package, a versatile desktop application t
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the main class `MainApplication.java`.
+3. Compile and run the main class `Main.java`.
 4. Explore the various utilities available in the GUI.
 
 ## Screenshots:
-*Main.java - Main GUI file*
+**Main.java - Main GUI file**
 ![Screenshot 1: Main Interface](/Screenshots/jpack1.png)
 
-
+**Hardcoded Notepad**
 ![Screenshot 2: Calculator](/Screenshots/jpack2.png)
-*Description of the screenshot.*
 
+**Calendar**
 ![Screenshot 1: Main Interface](/Screenshots/jpack3.png)
-*Description of the screenshot.*
 
+**Calculator**
 ![Screenshot 2: Calculator](/Screenshots/jpack4.png)
-*Description of the screenshot.*
 
+**Snake game**
 ![Screenshot 1: Main Interface](/Screenshots/jpack5.png)
-*Description of the screenshot.*
 
+**Tic Tac Toe**
 ![Screenshot 2: Calculator](/Screenshots/jpack6.png)
-*Description of the screenshot.*
 
-...
+
+
 
 ## Contributions:
 
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
 
-## License:
 
-This project is licensed under the [MIT License](LICENSE).
